@@ -5,9 +5,11 @@ notifications:
 julia:
   - 1.0
   - 1.5
+  - 1.6
   - nightly
 os:
   - linux
+  - osx
 arch:
   - x64
 cache:
